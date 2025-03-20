@@ -53,4 +53,5 @@ Final Project for CSE108 - Built on Lab08. Complete revamp of the Courese Regist
     will drastically cut down on student time spent looking at the class times to see if which classes conflict. 
 
     4. Our third thought was to include an upward facing arrow button on the center bottom of the screen. 
-    When clicked, this will bring up their schedule in a non-calendar format, like how it currently looks on the bottom right corner. 
+    When clicked, this will bring up their schedule in a non-calendar format, like how it currently looks on the 
+    bottom right corner. 
