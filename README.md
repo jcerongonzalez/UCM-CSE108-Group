@@ -2,7 +2,7 @@
 Final Project for CSE108 - Built on Lab08. Complete revamp of the Courese Registration pages of UCM. 
 
 3/20/25:
-    @ 10:30 pm, Jesus requested access to the University's course registration API, to hopefully make the project go a bit smoother.
+    @ 10:30 am, Jesus requested access to the University's course registration API, to hopefully make the project go a bit smoother.
 
     Ismiel and Jesus spoke briefly in the library about how the first page currently looks. 
 
