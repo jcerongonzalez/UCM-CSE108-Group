@@ -9,7 +9,8 @@ Final Project for CSE108 - Built on Lab08. Complete revamp of the Courese Regist
     Ideas for initial page: 
 
     1. Our first idea was to only have the 2 'big' or 'main' options displayed on the first page.
-    These being the; "Search for Class Schedule" & "Register for classes". All other options can be accessed via a hyperlink underneath these 2 'main' options.
+    These being the; "Search for Class Schedule" & "Register for classes". All other options 
+    can be accessed via a hyperlink underneath these 2 'main' options.
 
     2. Our second idea is to simply get rid of the "Prepare for Registration" page altogether and have a text box underneath the 2 'main' options and the hyperlink. This functionality will remove the need for students to visit a different page to see if they have a hold on their hold and their registration time and date is for next semester. We also had a thought about adding a drop down menu in the text box so students can view current and future semesters (maybe past, but we don't think it's needed).
 
